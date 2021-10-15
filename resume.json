@@ -1,0 +1,102 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Myles Landais",
+    "email": "landais.myles@gmail.com",
+    "url": "",
+    "summary": "",
+    "location": {
+      "city": "St. Paul",
+      "countryCode": "US",
+      "region": "Minnesota"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "MylesLandais",
+        "url": "https://github.com/MylesLandais"
+      },
+      {
+        "network": "Linkedin",
+        "username":"myles-landais-6832a657",
+        "url":"https://www.linkedin.com/in/myles-landais-6832a657/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Nothern Tool & Equipment",
+      "location": "Burnsville, MN",
+      "description": "Quality Tools for Serious Work",
+      "position": "Systems Support Analyst",
+      "url": "https://northerntool.com",
+      "startDate": "2016-06",
+      "endDate": "2021-09",
+      "summary": "Provide resolutions to business incidents",
+      "highlights": [
+        "Provided technical support to all users contacting the help desk. Identify and troubleshoot as effectively and efficient as possible",
+        "Created and maintained over 2000 users in Active Directory, Exchange, and AS/400 systems",
+        "Deployed computers and printers as part of a refresh initiative, provide backup and restore of user profiles, as well as next day support"
+      ]
+    },{
+      "name": "Minnesota State University, Mankato",
+      "position": "Campus Technology Support",
+      "website": "https://www.mankato.mnsu.edu/",
+      "startDate": "2015-03-15",
+      "endDate": "2016-05-03",
+      "highlights": [
+         "Responded to IT trouble tickets onsite within various facilities throughout the campus including the gymnasium, sports facilities,  lecture halls, library, and computer labs.",
+         "Managed classroom and laboratory assets including system applications and system security",
+         "Resolved tickets requiring many areas of troubleshooting, systems training, and repairs"
+      ]
+    },
+    {
+      "name": "Buro 507",
+      "location": "Mankato, MN",
+      "description": "Work in an agile student lead environment to delivering on high-quality projects",
+      "position": "Systems Support Analyst",
+      "url": "https://www.b507.us/",
+      "startDate": "2015-03-01",
+      "endDate": "2016-05-15",
+      "summary": "B507 is a group of creative student professionals. Working together to create the solution for your business needs",
+      "highlights": [
+        "Developed responsive websites with Zurb Foundation and JQuery with a focus on responsive design for mobile devices",
+        "Provided recourse and development to an international team working with an agile environment",
+        "Researched and Implementation of emerging technologies in our development environment"
+  ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Minnesota State University, Mankato",
+      "url": "https://mankato.mnsu.edu/",
+      "area": "Software Development",
+      "studyType": "Bachelor of Science",
+      "startDate": "2011-06-01",
+      "endDate": "2016-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": " Course 10997-D: Office 365 Administration and Troubleshooting",
+      "date": "2021-04-01",
+      "awarder": "New Horizons Computer Learning Centers",
+      "summary": "Administer and troubleshoot directory synchronization and directory objects. "
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": [
+        "Science Fiction",
+        "Computer Science",
+        "Fantasy"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
