@@ -3,7 +3,7 @@
   "basics": {
     "name": "Myles Landais",
     "email": "landais.myles@gmail.com",
-    "url": "",
+    "url": "https://mylesl.com ",
     "summary": "",
     "location": {
       "city": "St. Paul",
@@ -74,6 +74,14 @@
       "studyType": "Bachelor of Science",
       "startDate": "2011-06-01",
       "endDate": "2016-01-01"
+    },
+    {
+      "institution": "Minnesota State institutions",
+      "url": "https://mnstateitcoe.org/cybersecurity-skills-innovation-boot-camp/",
+      "area": "Cybersecurity Skills Innovation",
+      "studyType": "Boot Camp",
+      "startDate": "2015-06-01",
+      "endDate": "2015-06-29"
     }
   ],
   "awards": [
