@@ -92,6 +92,17 @@
       "summary": "Administer and troubleshoot directory synchronization and directory objects. "
     }
   ],
+  "certifications": [{
+    "certAuthority": "Axelos",
+    "certs" : [{
+        "name": "ITIL® 4 Foundation - IT Service Management Certification",
+        "ref": "",
+        "url": "",
+        "validationUrl": "", 
+        "awardSerial": "",
+        "startDate": "2021-11-01"
+    }]
+  }],
   "interests": [
     {
       "name": "Reading",
