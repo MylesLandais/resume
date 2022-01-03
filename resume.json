@@ -3,25 +3,7 @@
   "basics": {
     "name": "Myles Landais",
     "email": "landais.myles@gmail.com",
-    "url": "https://mylesl.com ",
-    "summary": "",
-    "location": {
-      "city": "St. Paul",
-      "countryCode": "US",
-      "region": "Minnesota"
-    },
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "MylesLandais",
-        "url": "https://github.com/MylesLandais"
-      },
-      {
-        "network": "Linkedin",
-        "username":"myles-landais-6832a657",
-        "url":"https://www.linkedin.com/in/myles-landais-6832a657/"
-      }
-    ]
+    "url": "https://mylesl.com "
   },
   "work": [
     {
@@ -54,7 +36,7 @@
       "name": "Buro 507",
       "location": "Mankato, MN",
       "description": "Work in an agile student lead environment to delivering on high-quality projects",
-      "position": "Systems Support Analyst",
+      "position": "Software Developer",
       "url": "https://www.b507.us/",
       "startDate": "2015-03-01",
       "endDate": "2016-05-15",
@@ -76,40 +58,56 @@
       "endDate": "2016-01-01"
     },
     {
-      "institution": "Minnesota State institutions",
+      "institution": "Minnesota State, I.T. Center of Excellence",
       "url": "https://mnstateitcoe.org/cybersecurity-skills-innovation-boot-camp/",
       "area": "Cybersecurity Skills Innovation",
       "studyType": "Boot Camp",
       "startDate": "2015-06-01",
       "endDate": "2015-06-29"
+    },
+    {
+      "institution": "New Horizons Computer Learning Centers",
+      "url": "https://www.newhorizons.com/central/training-and-certifications/course-outline/id/1024317380/c/10997-office-365-administration-and-troubleshooting",
+      "area": "Office 365 Administration and Troubleshooting",
+      "studyType": "Training",
+      "startDate": "2015-06-01",
+      "endDate": "2015-06-29"
     }
   ],
-  "awards": [
+  "awards": [{
+        "title": "Axelos",
+        "date": "2021-11-01",
+        "awarder": "ITIL® 4 Foundation - IT Service Management Certification",
+        "summary": "Completed IT Service Management course and certification"
+  }],  
+  "skills": [
     {
-      "title": " Course 10997-D: Office 365 Administration and Troubleshooting",
-      "date": "2021-04-01",
-      "awarder": "New Horizons Computer Learning Centers",
-      "summary": "Administer and troubleshoot directory synchronization and directory objects. "
-    }
-  ],
-  "certifications": [{
-    "certAuthority": "Axelos",
-    "certs" : [{
-        "name": "ITIL® 4 Foundation - IT Service Management Certification",
-        "ref": "",
-        "url": "",
-        "validationUrl": "", 
-        "awardSerial": "",
-        "startDate": "2021-11-01"
-    }]
-  }],
-  "interests": [
-    {
-      "name": "Reading",
+      "name": "Programming Languages",
       "keywords": [
-        "Science Fiction",
-        "Computer Science",
-        "Fantasy"
+        "Go",
+        "Powershell",
+        "Bash",
+        "Python3"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "keywords": [
+        "Debian Linux",
+        "Azure Active Directory Domain Services",
+        "Microsoft Exchange",
+        "IT Asset Management",
+        "Microsoft System Center Configuration Manager",
+        "Sophos Endpoint Protection"      
+      ]
+    },
+    {
+      "name": "Network Security",
+      "keywords": [
+        "Burp Suite",
+        "Metasploit",
+        "Nmap",
+        "Wireshark"
       ]
     }
   ],
